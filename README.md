@@ -2,11 +2,8 @@
 
 A glassy weather app that shows current conditions, a 24-hour temperature curve, and a 7-day forecast for any city — or for your current location. The background shifts to match the live weather. Built with **React** and the free **Open-Meteo API** (no API key needed).
 
-> **Live demo:** _add your deployed link here once it's live_
+> **Live demo:** (https://weatherappbapl.vercel.app)
 
-<!-- Add a screenshot once deployed — this app looks great in one:
-![Skyglass screenshot](./screenshot.png)
--->
 
 ---
 
